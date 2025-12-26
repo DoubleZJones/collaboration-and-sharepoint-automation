@@ -52,3 +52,33 @@ Worked with a customer to design and deploy a Microsoft Bookings solution that s
 
 **Impact:**  
 Delivered a structured, reliable scheduling solution that centralized communication and improved the customer’s ability to manage appointment requests.
+
+---
+
+## 3. Audit and Cleanup of Legacy Teams and SharePoint Sites
+**Summary:**  
+Performed a full audit of Microsoft Teams and SharePoint to identify and remove obsolete or unused sites created prior to the modernization effort.
+
+**Key Actions:**  
+- Reviewed site activity, ownership, and permissions.  
+- Identified stale or abandoned collaboration spaces.  
+- Coordinated with stakeholders before removal.  
+- Cleaned up unused sites to reduce clutter and improve navigation.
+
+**Impact:**  
+Improved collaboration structure, reduced confusion, and aligned the environment with current operational needs.
+
+---
+
+## 4. Configuration of Conference Room Resources
+**Summary:**  
+Configured Microsoft 365 room resources to support automated booking, conflict handling, and streamlined scheduling for internal teams and visitors.
+
+**Key Actions:**  
+- Created room mailboxes with appropriate booking policies.  
+- Enabled auto-accept and conflict resolution settings.  
+- Validated booking behavior across Outlook and Teams.  
+- Documented usage guidelines for staff.
+
+**Impact:**  
+Improved meeting room availability, reduced scheduling friction, and enhanced the user experience.
